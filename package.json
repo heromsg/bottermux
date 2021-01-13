@@ -1,4 +1,4 @@
-{
+
   "name": "bottermux",
   "version": "0.0.2",
   "description": "Only termux",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "heromsg",
+  "author": "NazwaS",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -41,10 +41,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heromsg/bottermux.git"
+    "url": "git+https://github.com/NazwaS/termux-whatsapp-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/heromsg/bottermux/issues"
+    "url": "https://github.com/NazwaS/termux-whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/heromsg/bottermux#readme"
+  "homepage": "https://github.com/NazwaS/termux-whatsapp-bot#readme"
 }
