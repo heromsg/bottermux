@@ -1,5 +1,5 @@
 {
-  "name": "pt termux bot",
+  "name": "bottermux",
   "version": "0.0.1",
   "description": "Online para termux",
   "main": "index.js",
