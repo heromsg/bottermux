@@ -16,7 +16,7 @@
     "bot",
     "whatsapp",
     "bot"
-  ],
+  ]
   "author": "heromsg",
   "license": "ISC",
   "dependencies": {
